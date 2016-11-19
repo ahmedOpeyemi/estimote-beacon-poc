@@ -1,4 +1,4 @@
-package com.AhmedOpeyemiEhealthnigeriaOrg.PocAppForProximityBeac5Tu;
+package com.AhmedOpeyemiEhealthnigeriaOrg.EhaBeaconNotifier826;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
