@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EhaBeaconNotifier826</string>
+    <string name="app_name">EhaProximityBeaconPocK49</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.AhmedOpeyemiEhealthnigeriaOrg.EhaBeaconNotifier826;
+package com.AhmedOpeyemiEhealthnigeriaOrg.EhaProximityBeaconPocK49;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
